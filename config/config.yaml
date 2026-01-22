@@ -1,0 +1,4 @@
+# !Load Data Train
+data:
+  raw_path: data/raw/train.csv
+
